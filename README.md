@@ -109,7 +109,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-Md. Rowshon Alam
-Beginner C Programmer.  
-ATM Simulation Project.
-Date: 24/02/2026
+* Md. Rowshon Alam
+* Beginner C Programmer.  
+* ATM Simulation Project.
+* Date: 24/02/2026
